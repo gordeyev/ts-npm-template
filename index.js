@@ -4,7 +4,7 @@ class TemplateClass {
     }
 
     someMethod() {
-
+        return 'some return';
     }
 }
 export default TemplateClass;
