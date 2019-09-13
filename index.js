@@ -7,4 +7,5 @@ class TemplateClass {
         return 'some return';
     }
 }
-export default TemplateClass;
+
+module.exports = TemplateClass
